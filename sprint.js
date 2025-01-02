@@ -130,7 +130,7 @@ var Sprint;
         prt = prt.parentElement
       }
     })
-    return Sprint(removeDuplicates(dom)) 6rOuF0vQy8
+    return Sprint(removeDuplicates(dom))
   }
 
   var getEventFromNamespace = function(event) {
