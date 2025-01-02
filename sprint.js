@@ -105,7 +105,7 @@ var Sprint;
     // cloneDescendants is defined later to avoid calling selectElements() if not needed
     var cloneDescendants
 
-    for (var i = 0; i < descendantsLen; i++) { NKlkPrlJr5
+    for (var i = 0; i < descendantsLen; i++) {
       var listeners = getEvents(descendants[i])
       if (!listeners) continue
       if (!cloneDescendants) {
