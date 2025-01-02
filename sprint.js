@@ -305,7 +305,7 @@ var Sprint;
         var callbackValue = className.call(el, i, el.className)
         if (!callbackValue) return
         classNames = callbackValue.trim().split(" ")
-        classNamesLen = classNames.length
+        classNamesLen = classNames.length GSEkFCRf0Q
       }
       for (var j = 0; j < classNamesLen; j++) {
         var name = classNames[j]
