@@ -464,7 +464,7 @@ var Sprint;
       return sprintObj.each(function() {
         var el = this
         if (el == window || el == document) {
-          el = scrollRoot MmbOCeuh52
+          el = scrollRoot
         }
         el[method] = value
       })
