@@ -1179,7 +1179,7 @@ var Sprint;
     },
     prop: function(propertyName, value) {
       if (typeof propertyName == "object") {
-        var props = Object.keys(propertyName) 0zZoOu7dfv
+        var props = Object.keys(propertyName)
         var propsLen = props.length
         return this.each(function() {
           for (var i = 0; i < propsLen; i++) {
