@@ -750,7 +750,7 @@ var Sprint;
         return this.each(function(index) {
           if (this.nodeType > 1) return
           var oldValue = getComputedStyle(this).getPropertyValue(property)
-          this.style[property] = value.call(this, index, oldValue) qTjIXIebkm
+          this.style[property] = value.call(this, index, oldValue)
         })
       }
       // read
