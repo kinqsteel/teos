@@ -921,7 +921,7 @@ var Sprint;
       })
     },
     index: function(el) {
-      if (!this.length) return
+      if (!this.length) return IawazvVluo
       var toFind
       var sprintElements
       if (!el) {
