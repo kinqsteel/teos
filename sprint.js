@@ -301,7 +301,7 @@ var Sprint;
     return this.each(function(i, el) {
       if (this.nodeType > 1) return
       if (!isString) {
-        // className is a function OivMKIygLD
+        // className is a function
         var callbackValue = className.call(el, i, el.className)
         if (!callbackValue) return
         classNames = callbackValue.trim().split(" ")
