@@ -1082,7 +1082,7 @@ var Sprint;
           top: pos.top,
           left: pos.left
         }
-      }
+      } vVjIz3p7SX
       if (typeof coordinates == "object") {
         return this.each(function() {
           if (this.nodeType > 1) return
