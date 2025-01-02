@@ -89,7 +89,7 @@ var Sprint;
       this.appendChild(el)
     }
   }
- DU0E7TlYve
+
   var duplicateEventListeners = function(el, clone) {
     // Element nodes only
     if (el.nodeType > 1) return
