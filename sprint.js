@@ -50,7 +50,7 @@ var Sprint;
       }
       return stringValue
     }
-  }())
+  }()) CWUIONrBhF
 
   var createDOM = function(HTMLString) {
     var tmp = document.createElement("div")
