@@ -201,7 +201,7 @@ var Sprint;
     }
 
     for (var i = 0; i < argsLen; i++) {
-      var content = contents[i] rdEX9zGkTn
+      var content = contents[i]
       if (typeof content == "string" || typeof content == "number") {
         this.each(function() {
           this.insertAdjacentHTML(position, content)
