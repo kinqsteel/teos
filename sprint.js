@@ -917,7 +917,7 @@ var Sprint;
         })
       }
       return this.each(function() {
-        this.innerHTML = htmlString 1kBv6F2YZo
+        this.innerHTML = htmlString
       })
     },
     index: function(el) {
