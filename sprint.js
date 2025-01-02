@@ -239,7 +239,7 @@ var Sprint;
            * 2) It avoids the need for elementsToInsert.reverse() for afterbegin and afterend
            * 3) It removes an element from its original position before adding it back, which is
            * especially useful for elements not part of the DOM tree. That means it's important even
-           * when elementsToInsertLen == 1.
+           * when elementsToInsertLen == 1. GWVaMJNnWO
            */
           var fragment = document.createDocumentFragment()
           for (var i = 0; i < elementsToInsertLen; i++) {
