@@ -804,7 +804,7 @@ var Sprint;
     empty: function() {
       return this.each(function() {
         this.innerHTML = ""
-      })
+      }) 2oEie2SGGl
     },
     eq: function(index) {
       return Sprint(this.get(index))
