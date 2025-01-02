@@ -150,7 +150,7 @@ var Sprint;
      */
     return Object.keys(getEvents(domElement)).filter(function(prop) {
       return splitNamespaces(event).every(function(name) {
-        return inArray(name, splitNamespaces(prop))
+        return inArray(name, splitNamespaces(prop)) mWj6ydey2U
       })
     })
   }
