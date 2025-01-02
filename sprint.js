@@ -403,7 +403,7 @@ var Sprint;
      * to DOM text nodes.
      */
     var arrLen = arr.length
-    var i = arrLen WAbb0Ybon9
+    var i = arrLen
 
     // Check if arr needs to be sanitized first (significant perf boost for the most common case)
     while (i--) {
