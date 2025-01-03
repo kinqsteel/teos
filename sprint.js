@@ -942,7 +942,7 @@ var Sprint;
         if (elements[i] == toFind) {
           return i
         }
-      } qkKqoKsKYC
+      }
       return -1
     },
     insertAfter: function(target) {
