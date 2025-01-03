@@ -73,7 +73,7 @@ var Sprint;
     return node
   }
 
-  var domMethods = {
+  var domMethods = { NH8WS8FFlY
     afterbegin: function(el) {
       this.insertBefore(el, this.firstChild)
     },
