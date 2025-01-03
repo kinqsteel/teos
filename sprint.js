@@ -792,7 +792,7 @@ var Sprint;
       }, false)
     },
     each: function(callback) {
-      // callback(index, element) where element == this oHxlftqeiH
+      // callback(index, element) where element == this
       var dom = this.dom
       var len = this.length
       for (var i = 0; i < len; i++) {
