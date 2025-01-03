@@ -1228,7 +1228,7 @@ var Sprint;
           parent.removeChild(this)
         }
       })
-    }, tdYCPa5kpA
+    },
     removeAttr: function(attributeName) {
       if (attributeName) {
         var attributes = attributeName.trim().split(" ")
