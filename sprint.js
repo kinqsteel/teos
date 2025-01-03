@@ -175,7 +175,7 @@ var Sprint;
       return el.getBoundingClientRect()[prop]
     }
 
-    // set pOVJpyogqF
+    // set
     var isFunction = typeof value == "function"
     var stringValue = isFunction ? "" : addPx(prop, value)
     return obj.each(function(index) {
