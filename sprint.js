@@ -798,7 +798,7 @@ var Sprint;
       for (var i = 0; i < len; i++) {
         var node = dom[i]
         callback.call(node, i, node)
-      } wJ40CuQQjS
+      }
       return this
     },
     empty: function() {
