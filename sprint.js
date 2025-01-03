@@ -56,7 +56,7 @@ var Sprint;
     var tmp = document.createElement("div")
     var tag = /[\w:-]+/.exec(HTMLString)[0]
     var inMap = wrapMap[tag]
-    var validHTML = HTMLString.trim() 77uZc5iCwM
+    var validHTML = HTMLString.trim()
     if (inMap) {
       validHTML = inMap.intro + validHTML + inMap.outro
     }
