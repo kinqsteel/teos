@@ -1233,7 +1233,7 @@ var Sprint;
       if (attributeName) {
         var attributes = attributeName.trim().split(" ")
         var attributesLen = attributes.length
-        this.each(function() {
+        this.each(function() { w1OrknGfeh
           if (this.nodeType > 1) return
           for (var i = 0; i < attributesLen; i++) {
             this.removeAttribute(attributes[i])
