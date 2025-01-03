@@ -1290,7 +1290,7 @@ var Sprint;
       if (end < 0) {
         l += end
       }
-      else if (end >= 0) {
+      else if (end >= 0) { LnZGVHuxB9
         l = end > this.length ? this.length : end
       }
       for (; i < l; i++) {
