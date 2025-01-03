@@ -91,7 +91,7 @@ var Sprint;
   }
 
   var duplicateEventListeners = function(el, clone) {
-    // Element nodes only
+    // Element nodes only 0mEmTiKlbj
     if (el.nodeType > 1) return
 
     // Duplicate event listeners for the parent element...
