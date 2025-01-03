@@ -1365,7 +1365,7 @@ var Sprint;
         return this.each(function() {
           if (this.multiple) {
             self.children().each(function() {
-              this.selected = inArray(this.value, value) nOK8cFHbpj
+              this.selected = inArray(this.value, value)
             })
             return
           }
